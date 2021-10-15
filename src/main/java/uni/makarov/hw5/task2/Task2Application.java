@@ -7,8 +7,6 @@ import javafx.stage.Stage;
 
 import java.io.IOException;
 
-//Figure: abstract calcArea, calc Perimeter
-
 public class Task2Application extends Application {
     @Override
     public void start(Stage stage) throws IOException {
